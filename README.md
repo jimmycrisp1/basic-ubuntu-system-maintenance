@@ -1,5 +1,5 @@
 # basic-ubuntu-system-maintenance
-$ Receuved some help from GPT on this making it for my own system, figured it would be a good first share on github. ENJOY!
+$ Received some help from GPT on this making it for my own system, figured it would be a good first share on github. ENJOY!
 
 General comprehensive bash script for maintaining your Ubuntu system. This script includes updating package lists, upgrading packages, cleaning up, and removing old kernels.
 
